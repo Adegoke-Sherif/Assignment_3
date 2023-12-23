@@ -1,0 +1,140 @@
+body{
+    background: #f5f8fa;
+    margin: 0;
+    padding: 0;
+}
+.container p{
+    justify-content: center;
+    align-items: center;
+}
+.container_header{
+    margin: 0rem 2rem 0 2rem;
+}
+.nav_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5rem;
+
+}
+nav ul li{
+    list-style: none;
+}
+li{
+    text-decoration: none;
+    text-transform: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+button{
+    font-weight: 600;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 0.5rem;
+}
+section{
+    align-items: center;
+    margin-bottom: 2.5rem;
+}
+.side{
+    display: flex;
+    margin-right: 1rem;
+    justify-content: center;
+    margin-top: 5rem;
+    
+
+}
+
+
+.right_handside{
+ background: white;
+   
+}
+.right_container{
+    margin-left: 2rem;
+    margin-right:2rem;
+}
+.infor_1{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.input_1{
+    display: flex;
+    gap: 2rem;
+}
+label{
+    color: black;
+    
+}
+form input {
+    background: lightgrey;
+    width: 227px;
+    height: 36px;
+    top: 408px;
+    left: 311px;
+
+
+
+    
+}
+.lastname_container input{
+    width: 227px;
+    Top: 408px;
+    Left: 568px;
+    border: none;
+
+}
+.credit_cardinput{
+    width: 383px;
+    height: 36px;
+    top: 670px;
+    left: 311px;
+
+}
+.wp_button button{
+    width: 100%;
+    background: #038E7D;
+    border: none;
+    margin-right: 2rem;
+}
+.last_btn{
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+.last_btn button{
+    width: 30%;
+    align-items: center;
+    color: white;
+    background: gray;
+    font-weight: 400;
+    font-size: 10px;
+    
+}
+
+.left_handside{
+    background: #1179BF;
+}
+
+.left_handside p{
+    color: white;
+}
+
+.freelancer{
+    font-size: 2rem;
+}
+.left_handside strong{
+    font-size: 4rem;
+}
+
+
+
+.mask{
+    border-radius: 50%;
+}
